@@ -11,3 +11,8 @@ npm install
 ```bash
 npm start
 ```
+
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ComradeMohan-chat/count.svg" />
+</p>
